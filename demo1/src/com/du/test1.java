@@ -7,5 +7,6 @@ public class test1 {
         System.out.println("加了一个补丁");
         System.out.println("修改的一条文件");
         System.out.println("再拉一条");
+        System.out.println("我是master的修改");
     }
 }
